@@ -1,5 +1,9 @@
 _repo: The-History-of-Louisiana-Or-of-the-Western-Parts-of-Virginia-and-Carolina-Containing-a-Descrip__9153
+_version: 0.1.0
 alternative_title: Histoire de la Louisiane. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Le Page du Pratz
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '2985'
     url: http://www.gutenberg.org/2009/agents/2985
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9153#The-History-of-Louisiana-Or-of-the-Western-Parts-of-Virginia-and-Carolina-Containing-a-Descrip_
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
 identifiers:
